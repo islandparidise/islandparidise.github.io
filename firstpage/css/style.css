@@ -1,0 +1,52 @@
+@import 'https://fonts.googleapis.com/css?family=Indie+Flower|Pacifico';
+@import 'https://fonts.googleapis.com/css?family=Pacifico';
+@import url(https://fonts.googleapis.com/css?family=Orbitron)
+@import url(https://fonts.googleapis.com/css?family=Crafty+Girls);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+body {
+  background-image:
+  url('http://images.all-free-download.com/images/graphiclarge/abstract_artistic_background_with_flower_in_colorful_vector_illustration_570155.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  cursor: url('http://icons.iconarchive.com/icons/fasticon/web-2/24/Twitter-icon.png'), auto;
+
+
+}
+
+h1 {       
+font-size:40px;
+text-align:center; }
+
+p { 
+font-size:25px;
+font-family:Poiret One;
+}
+li{
+font-size:25px;
+font-family:Crafty Girls
+  
+}
+
+a  { 
+font-size:25px;
+font-family:Orbitron;
+
+}
+
+p:hover {       
+background: #FFE87C;
+color:#E77DFF;
+font-family:Pacifico;
+     
+}
+
+div { 
+  background:  #FF7DAA;
+  border: dotted 10px;
+  font-family: cursive;
+}
+
+div:hover {       
+  background: #7DFFD1;
+  font-family: Indie Flower;
+}
