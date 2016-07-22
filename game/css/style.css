@@ -1,0 +1,183 @@
+@import 'https://fonts.googleapis.com/css?family=Aref+Ruqaa';
+@import 'https://fonts.googleapis.com/css?family=Nixie+One';
+@import 'https://fonts.googleapis.com/css?family=Calligraffitti';
+body{ 
+background-image:
+url("https://secure.static.tumblr.com/2531880255b7b4191045edf79a9179df/sfqfujp/8UQn70u13/tumblr_static__640_v2.gif");
+background-repeat:no-repeat;
+background-size:cover;
+cursor: url('http://orig04.deviantart.net/9e0b/f/2012/023/3/1/mario_coin_by_princesszelda224-d4netp5.gif'), auto;
+text-align:center;
+
+ }
+h1{ 
+color:#FFFFFF;
+font-family:Aref Ruqaa;
+font-size:30px;
+}
+
+p{
+color:#FFFFFF;
+font-size:20px;
+font-family:Calligraffitti;
+  
+}
+
+h2{ 
+color:#FFFFFF;
+font-family:Aref Ruqaa;
+font-size:20px;
+}
+
+h3{ 
+color:#FFFFFF;
+font-family:Aref Ruqaa;
+font-size:20px;
+}
+
+ul{
+color:#FFFFFF;  
+font-family:Nixie One  
+}
+
+h4{ 
+color:#FFFFFF;
+font-family:Aref Ruqaa;
+font-size:20px;
+}
+
+
+button{ 
+margin-top: 10px;
+padding: 20px;
+font-size: 50px;
+ border: 3px dashed #000;
+ }
+
+button:hover{ 
+font-size: 50px;
+  padding: 20px;
+  border: 3px solid #000;
+  background: #fff;
+} 
+
+ul {
+  list-style-position: inside;
+}
+
+.dirt {
+  width: 10%;
+}
+
+.silvercoin{
+ width:50px;
+}
+.diamond{
+ width:200px
+}
+.spikes{
+width:40px
+}
+
+.gold{
+width:100px  
+}
+
+h5{ 
+color:#FFFFFF;
+font-family:Aref Ruqaa;
+font-size:20px;
+}
+
+#spike1 {
+  position: absolute;
+  top: 400px;
+  left: 400px;
+}
+
+#spike2 {
+  position: absolute;
+  top: 00px;
+  left: 1500px;
+}
+
+#spike3 {
+  position: absolute;
+  top: 500px;
+  left: 1000px;
+}
+
+#silvercoin2 {
+  position: absolute;
+  top: 500px;
+  left: 900px;
+}
+  #goldcoin2 {
+  position: absolute;
+  top: 500px;
+  left: 1500px;
+}
+#silvercoin3 {
+  position: absolute;
+  top: 200px;
+  left: 700px;
+}
+  #gold2 {
+  position: absolute;
+  top: 150px;
+  left: 800px;
+}
+#goldcoin1 {
+  position: absolute;
+  top: 800px;
+  left: 600px;
+}
+#goldcoin3 {
+  position: absolute;
+  top: 200px;
+  left: 900px;
+}
+#dirt2 {
+  position: absolute;
+  top: 1000px;
+  left: 385px;
+}
+#diamond1 {
+  position: absolute;
+  top: 700px;
+  left: 400px;
+}
+#diamond3 {
+  position: absolute;
+  top: 400px;
+  left: 1700px;
+}
+#gold1 {
+  position: absolute;
+  top: 600px;
+  left: 100px;
+}
+#gold3 {
+  position: absolute;
+  top: 700px;
+  left: 800px;
+}
+#silvercoin1 {
+  position: absolute;
+  top: 700px;
+  left: 200px;
+}
+#dirt3 {
+  position: absolute;
+  top: 1000px;
+  left: 1500px;
+}
+#diamond2 {
+  position: absolute;
+  top: 300px;
+  left: 100px;
+}
+#dirt1 {
+  position: absolute;
+  top: 100px;
+  left: 100px;
